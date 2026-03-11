@@ -1,4 +1,4 @@
-# 🎨 Stable Diffusion Text2Image & Image2Image
+# Stable Diffusion Text2Image & Image2Image
 
 [![Hugging Face](https://img.shields.io/badge/🤗-Spaces-blue)](https://huggingface.co/spaces/tugrulkaya/stable-diffusion-text2img)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
@@ -6,24 +6,24 @@
 
 AI destekli görüntü üretme ve dönüştürme uygulaması.
 
-## 🚀 Özellikler
+## Özellikler
 
 - **Text-to-Image**: Metin açıklamalarından görüntü üret
 - **Image-to-Image**: Mevcut görüntüleri dönüştür
 - **Özelleştirilebilir**: Steps, guidance, boyut kontrolü
 - **Türkçe UI**: Kullanıcı dostu arayüz
 
-## 📦 Kurulum
+## Kurulum
 ```bash
 pip install -r requirements.txt
 python app.py
 ```
 
-## 🌐 Demo
+## Demo
 
 👉 [Hugging Face Spaces](https://huggingface.co/spaces/tugrulkaya/stable-diffusion-text2img)
 
-## 💡 Kullanım
+## Kullanım
 
 ### Text-to-Image
 ```python
@@ -38,19 +38,19 @@ strength = 0.75
 # Görüntü dönüştürülür
 ```
 
-## 🛠️ Teknoloji
+## ️ Teknoloji
 
 - Stable Diffusion v1.5
 - Hugging Face Diffusers
 - Gradio
 - PyTorch
 
-## 👨‍💻 Geliştirici
+## ‍ Geliştirici
 
 **Mehmet Tuğrul Kaya**
 - GitHub: [@mtkaya](https://github.com/mtkaya)
 - Hugging Face: [@tugrulkaya](https://huggingface.co/tugrulkaya)
 
-## 📝 Lisans
+## Lisans
 
 Apache 2.0
